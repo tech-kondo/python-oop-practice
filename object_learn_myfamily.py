@@ -1,6 +1,5 @@
 # coding: UTF-8
-"""このプログラムはオブジェクト指向を意識して書いたPythonプログラムです
-kondo_mamaにしてみたけどfamily_mamaのほうがいいのかな？クラス名をKondoにするべきだったか？"""
+"""このプログラムはオブジェクト指向を意識して書いたPythonプログラムです"""
 
 class Family:
 	"""docstring for Family"""
